@@ -58,8 +58,6 @@
 * **JavaScript** – Interactivity
 * **Responsive Design** – Optimized for mobile and desktop
 * **Custom Animations** – Smooth scrolling and transitions
-* *(Optional)* Integration-ready with backend or CMS if needed
-
 ---
 
 ## 📁 Project Structure
