@@ -1,6 +1,7 @@
 # 🍛 Masaledar Kitchen 🍽️
 
-![Banner](https://your-image-link-here.com/banner.jpg)
+<img width="1903" height="863" alt="Screenshot 2025-08-04 220921" src="https://github.com/user-attachments/assets/111f9772-ef15-49f9-b4aa-f054136e76c0" />
+
 
 **Masaledar Kitchen** is a vibrant, single-page website that brings the bold, authentic flavors of India to life online. Designed with a modern aesthetic and built for performance, this project showcases a full-featured restaurant site experience — from browsing a spicy menu to reserving a table or ordering food online!
 
