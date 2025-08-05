@@ -123,4 +123,10 @@ IN THE SOFTWARE.
 
 ## 🙌 Contributions
 
-Feel free to fork,
+##👨‍💻 Creator
+
+-> Aayush Kumar – GitHub
+
+💡 Amazing Contributors
+
+## You, the next amazing developer! ❤️
