@@ -9,7 +9,7 @@
 
 ## 🚀 Live Demo
 
-👉 [Click here to visit the site](https://masaledarkitchen.vercel.app) *(Replace with your live URL)*
+👉 [Click here to visit the site]((https://masaledar-kitchen.vercel.app/)) *(Replace with your live URL)*
 
 ---
 
