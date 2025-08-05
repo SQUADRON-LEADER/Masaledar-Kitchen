@@ -1,4 +1,3 @@
-```markdown
 # 🍛 Masaledar Kitchen 🍽️
 
 ![Banner](https://your-image-link-here.com/banner.jpg)
@@ -21,27 +20,27 @@
 
 ## ✨ Features
 
-- 🌶️ Interactive, filterable food menu  
-- 💬 Live chat support  
-- 📆 Events calendar & special offers  
-- 📷 Engaging photo gallery  
-- ⭐ Customer reviews  
-- 📱 Fully responsive across all devices  
-- 🛒 Online ordering system  
-- 📝 Reservation & contact forms  
-- 🎁 Loyalty program section  
-- 🔥 Beautiful UI with warm color palette & elegant typography
+* 🌶️ Interactive, filterable food menu
+* 💬 Live chat support
+* 📆 Events calendar & special offers
+* 📷 Engaging photo gallery
+* ⭐ Customer reviews
+* 📱 Fully responsive across all devices
+* 🛒 Online ordering system
+* 📝 Reservation & contact forms
+* 🎁 Loyalty program section
+* 🔥 Beautiful UI with warm color palette & elegant typography
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **HTML5** – Structure  
-- **CSS3** – Styling and layout  
-- **JavaScript** – Interactivity  
-- **Responsive Design** – Optimized for mobile and desktop  
-- **Custom Animations** – Smooth scrolling and transitions  
-- *(Optional)* Integration-ready with backend or CMS if needed  
+* **HTML5** – Structure
+* **CSS3** – Styling and layout
+* **JavaScript** – Interactivity
+* **Responsive Design** – Optimized for mobile and desktop
+* **Custom Animations** – Smooth scrolling and transitions
+* *(Optional)* Integration-ready with backend or CMS if needed
 
 ---
 
@@ -63,11 +62,13 @@ Masaledar-Kitchen/
 ## ⚙️ Installation & Usage
 
 1. **Clone the repository**
+
    ```bash
    git clone https://github.com/your-username/masaledar-kitchen.git
    ```
 
 2. **Navigate to the folder**
+
    ```bash
    cd masaledar-kitchen
    ```
@@ -85,17 +86,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🙌 Contributions
 
-Feel free to fork, star ⭐, and contribute to this project. Pull requests are always welcome!
-
----
-
-## 🔗 Connect
-
-- 📧 Email: contact@masaledarkitchen.com  
-- 📸 Instagram: [@masaledarkitchen](https://instagram.com/masaledarkitchen)  
-- 🌐 Website: [masaledarkitchen.com](https://masaledarkitchen.com)
-
----
-
-**Made with ❤️ and lots of spice!**
-```
+Feel free to fork,
