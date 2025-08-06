@@ -123,7 +123,7 @@ IN THE SOFTWARE.
 
 ## 🙌 Contributions
 
-##👨‍💻 Creator
+## 👨‍💻 Creator
 
 -> Aayush Kumar – GitHub
 
