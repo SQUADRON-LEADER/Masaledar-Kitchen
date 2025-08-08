@@ -120,13 +120,10 @@ IN THE SOFTWARE.
 
 
 ---
-
-## 🙌 Contributions
-
 ## 👨‍💻 Creator
 
 -> Aayush Kumar – GitHub
 
-💡 Amazing Contributors
+## 💡 Amazing Contributors
 
 ## You, the next amazing developer! ❤️
